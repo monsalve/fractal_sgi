@@ -1,0 +1,15 @@
+Migraciones HECHO
+Ejecutar migraciones en secuencia HECHO
+Subir modulos HECHO
+Registrar datos por tabla segun el orden HECHO
+Modelos HECHO
+Controladores HECHO
+Componentes HECHO
+Registrar componentes en app.js HECHO
+Registrar rutas HECHO
+
+
+f_r$k+hY 2%_.
+
+VERIFICAR QUE el campo estado sea unsigned.
+segmentos_archivos puede que requiera o no el campo usuActualiza?
